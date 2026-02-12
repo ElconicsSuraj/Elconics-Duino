@@ -1,0 +1,33 @@
+Reference,Qty,Value,Supplier Name,Supplier Product Link,Footprint,Datasheet
+BT2,1,BK-912-G,Robu,https://robu.in/product/20mm-cr2032-battery-button-cell-holder/,BK-912-G:BAT_BK-912-G,
+BZ1,1,Buzzer,Robu,https://robu.in/product/ymd12095g5v-cldz-electromagnetic-active-split-buzzer-5v12x9-5mm/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWehQ--scHYFydMJBS1By9z7g&gclid=CjwKCAiA3rPKBhBZEiwAhPNFQJCrdNPtgju5Ale_IMWbQ-_mVue0nGo_GsUasXMDOOCfFU95bKWK-hoCGk4QAvD_BwE,Buzzer_Beeper:Buzzer_12x9.5RM7.6,~
+"C1,C2,C4,C5,C6,C7,C8,C14,C15,C16,C17,C19,C20,C22,C24,C25,C27,C28",18,0.1uf,Robu,https://robu.in/product/0-1uf-capacitor-smdc-1206/,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~
+"C3,C21,C26",3,10uf,Robu,https://robu.in/product/10uf-10000nf-50v-capacitor-1206-smd-package-pack-of-5/,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~
+C9,1,1uf,Robu,https://robu.in/product/1206b105k500nt-fh-50v-1uf-x7r%c2%b110-1206-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~
+"C10,C11",2,10pf,Robu,https://robu.in/product/tcc1206cog120j202et-cctc-smt-ceramic-capacitors-1206-cog-120j12pf%c2%b15-0-rated-voltage2000v-thickness1-00mm-tape/,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~
+"C12,C13,C23",3,22pf,Robu,https://robu.in/product/22pf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~
+C18,1,4.7uf,Robu,https://robu.in/product/c1206x475j5ractu-kemet-cap-4-7uf-50v-mlcc-1206/,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~
+"D1,D3",2,1N5819HW,Robu,https://robu.in/product/1n5819hw-tech-public-40v-900mv3a-1a-sod-123-schottky-diodes-rohs/,Diode_SMD:D_SMA_Handsoldering,https://www.diodes.com/assets/Datasheets/1N5819HW.pdf
+"D2,D4,D5,D6",4,LED_ORANGE,Robu,https://robu.in/product/0603-surface-mount-led-orange-50-pcs/,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~
+D7,1,LED_RED,Robu,https://robu.in/product/19-217-r6c-p1q2-3t-everlight-red-624nm-led-indication-discrete-2v-0603-1608-metric/,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~
+D8,1,LED_GREEN,Robu,https://robu.in/product/19-217-r6c-al1m2vy-3t-everlight-green-528nm-led-indication-discrete-3-3v-0603-1608-metric/,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~
+"D12,D13,D14",3,WS2812B-2020,Robu,https://robu.in/product/sme-ws2812b-2020-addressable-rgb-pixel-led-worldsemi/,LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm,https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+J1,1,2171790001,Robu,https://robu.in/product/1-month-warranty-1003/,Type-C Molex:MOLEX_2171790001,https://www.molex.com/en-us/products/part-detail/2171790001
+Q1,1,BC847,Robu,https://robu.in/product/bc847-npn-transistor-pack-of-15/#tab-product_download_66939_tab,Package_TO_SOT_SMD:SOT-23,http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657
+"R1,R9",2,5k1,Robu,https://robu.in/product/ac1206fr-075k1l-yageo-res-thick-film-1206-5-1k-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~
+"R2,R3,R12",3,22,Robu,https://robu.in/product/ac1206fr-0722rl-yageo-smd-chip-resistor-22-ohm-%c2%b1-1-250-mw-1206-3216-metric-thick-film-general-purpose/,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~
+"R4,R10,R13,R18,R19,R23,R24,R25,R27,R28,R29",11,10k,Robu,https://robu.in/product/ac1206fr-7w10kl-yageo-500mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b11-10k%cf%89-1206-chip-resistor-surface-mount-rohs/,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~
+"R5,R6,R7,R8,R11",5,1K,Robu,https://robu.in/product/ac1206jr-071kl-yageo-res-thick-film-1206-1k-ohm-5-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~
+"R20,R21",2,330,Robu,https://robu.in/product/ac1206jr-071kl-yageo-res-thick-film-1206-1k-ohm-5-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~
+R22,1,2k2,Robu,https://robu.in/product/ac1206jr-072k2l-yageo-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b15-2-2k%cf%89-1206-chip-resistor-surface-mount-rohs/,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~
+R26,1,120,Robu,https://robu.in/product/rc1206fr-07120rl-yageo-res-thick-film-1206-120-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r/,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~
+S1,1,DS01-254-S-02BE,Robu,https://robu.in/product/2-pin-flat-dial-switch-2-54mm/,DS01-254-S-02BE:SW_DS01-254-S-02BE,
+"SW2,SW5,SW6,SW7,SW8,SW9",6,PTS645SH50SMTR92LFS,Robu,https://robu.in/product/pts645sk43smtr92lfs-ck-6mm-4-3mm-round-button-50ma-vertical-welding-6mm-spst-2-6n-12v-smd6x6mm-tactile-switches-rohs/#tab-product_download_66939_tab,SWITCH TACTILE:PTS645S_SMTR92_CNK,PTS645SH50SMTR92LFS
+U1,1,STM32F401RBT6,Robu,https://robu.in/product/stm32f401rbt6-stmicroelectronics-arm-mcu-dynamic-efficiency-line-stm32-family-stm32f4-series-microcontrollers-arm-cortex-m4/,STM32F401RBT6:QFP50P1200X1200X160-64N,https://www.st.com/content/ccc/resource/technical/document/datasheet/9e/50/b1/5a/5f/ae/4d/c1/DM00086815.pdf/files/DM00086815.pdf/jcr:content/translations/en.DM00086815.pdf
+U2,1,AMS1117-3.3,Robu,https://robu.in/product/ams1117-3-3v-1a-sot-223-voltage-regulator-ic-pack-of-5-ics/,AMS1117-3.3Ex:SOT229P700X180-4N,
+U3,1,USBLC6-2SC6,Robu,https://robu.in/product/usblc6-2sc6-ms-msksemi-4-5a-15v-150w-6v-5v-sot-23-6-esd-and-surge-protection-tvs-esd-rohs/,Package_TO_SOT_SMD:SOT-23-6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+U5,1,SN74LVC125ADR,Robu,https://robu.in/product/sn74lvc125adr-texas-instruments-buffer-line-driver-74lvc125-1-65-v-to-3-6-v-soic-14/,SN74LVC125ADR:SOIC127P600X175-14N,
+U10,1,ESP32-WROOM-E,Robu,https://robu.in/product/espressif-esp32-wroom-32e-n4-modules/,PCM_Espressif:ESP32-WROOM-32E,https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+Y2,1,HC49/U 8MHz Crystal Oscillator,Robu,https://robu.in/product/hc49-s-8mhz-crystal-oscillator-pack-of-5/,Crystal:Crystal_HC49-U_Vertical,~
+"R14,R15",2,20K,Robu,https://robu.in/product/rc1206fr-0720kl-yageo-res-thick-film-1206-20k-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r/,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,
+"R16,R17,R30,R31",4,3.3K,Robu,https://robu.in/product/ac1206jr-073k3l-yageo-250mw-thick-film-resistors-200v-%c2%b1100ppm-%e2%84%83-%c2%b15-3-3k%cf%89-1206-chip-resistor-surface-mount-rohs/,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,
