@@ -1,0 +1,33 @@
+15:05:12 **** Incremental Build of configuration Debug for project 16X2_lcd_display_interface ****
+make -j20 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F401xE -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:167:13: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+  167 |             printf("Scanning I2C...\n");
+      |             ^~~~~~
+../Core/Src/main.c:21:1: note: include '<stdio.h>' or provide a declaration of 'printf'
+   20 | #include "main.h"
+  +++ |+#include <stdio.h>
+   21 | uint8_t i;
+../Core/Src/main.c:167:13: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+  167 |             printf("Scanning I2C...\n");
+      |             ^~~~~~
+../Core/Src/main.c:167:13: note: include '<stdio.h>' or provide a declaration of 'printf'
+arm-none-eabi-gcc -o "16X2_lcd_display_interface.elf" @"objects.list"   -mcpu=cortex-m4 -T"E:\Elconics\Projects\2026\STM32_LB1\Elconics-Duino\Firmware\Peripheral_Libraries\medadata\16X2_lcd_display_interface\STM32F401RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="16X2_lcd_display_interface.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 16X2_lcd_display_interface.elf
+ 
+arm-none-eabi-size  16X2_lcd_display_interface.elf 
+arm-none-eabi-objdump -h -S 16X2_lcd_display_interface.elf  > "16X2_lcd_display_interface.list"
+   text	   data	    bss	    dec	    hex	filename
+  14560	    104	   2064	  16728	   4158	16X2_lcd_display_interface.elf
+Finished building: default.size.stdout
+ 
+Finished building: 16X2_lcd_display_interface.list
+ 
+15:05:16 **** Incremental Build of configuration Debug for project 16X2_lcd_display_interface ****
+make -j20 all 
+arm-none-eabi-size  16X2_lcd_display_interface.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14560	    104	   2064	  16728	   4158	16X2_lcd_display_interface.elf
+Finished building: default.size.stdout
+ 

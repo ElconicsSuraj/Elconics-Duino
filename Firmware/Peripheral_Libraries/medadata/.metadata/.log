@@ -1,0 +1,18 @@
+!SESSION 2026-02-15 14:33:52.967 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-02-15 14:35:05.837
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-15 14:35:05.838
+!MESSAGE Log4j2 initialized with config file E:\Elconics\Projects\2026\STM32_LB1\Elconics-Duino\Firmware\Peripheral_Libraries\medadata\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-15 14:35:08.827
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-15 14:37:24.471
+!MESSAGE Indexed '16X2_lcd_display_interface' (20 sources, 82 headers) in 2.99 sec: 4,771 declarations; 22,699 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0073%)
