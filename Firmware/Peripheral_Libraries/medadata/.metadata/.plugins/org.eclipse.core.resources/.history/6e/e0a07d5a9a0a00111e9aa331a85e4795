@@ -153,7 +153,7 @@ int main(void)
 //  uncomment this for printing
   lcd_init();
   HAL_Delay(1000);
-  lcd_send_string("suraj");
+  lcd_send_string("janna I love U");
 
   /* USER CODE END 2 */
 

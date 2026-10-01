@@ -151,9 +151,9 @@ int main(void)
   MX_I2C1_Init();
   /* USER CODE BEGIN 2 */
 //  uncomment this for printing
-  lcd_init();
-  HAL_Delay(1000);
-  lcd_send_string("suraj");
+//  lcd_init();
+//  HAL_Delay(1000);
+//  lcd_send_string("Subscribe Elconics");
 
   /* USER CODE END 2 */
 
@@ -176,7 +176,7 @@ int main(void)
 //
 //	    HAL_Delay(3000); // scan every 3 second
 //    /* USER CODE BEGIN 3 */
- }
+//  }
   /* USER CODE END 3 */
 }
 
